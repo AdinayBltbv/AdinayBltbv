@@ -36,12 +36,12 @@ Bishkek and in parallel I am mastering new technologies.
     <img width="50px" src="assets/images/icons8-логотип-telegram-96.png" alt="Telegram">
   </a>
 
-  <a href="https://angelizada243@gmail.com">
+  <!-- <a href="https://angelizada243@gmail.com">
     <img width="50px" src="assets/images/icons8-gmail-96.png" alt="Gmail">
-  </a>
+  </a> -->
 
   <a href="https://www.instagram.com/adiinay_/">
-    <img width="40px" src="assets/images/instagram.svg" alt="Instagram">
+    <img width="50px" src="assets/images/instagram.svg" alt="Instagram">
   </a>
   </div>
 
