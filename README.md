@@ -41,8 +41,8 @@ Bishkek and in parallel I am mastering new technologies.
   </a>
 
   <a href="https://www.instagram.com/adiinay_/">
-<img width="50px" scr="assets/images/instagram.svg">
-</a>
+    <img width="50px" src="assets/images/instagram.svg" alt="Instagram">
+  </a>
   </div>
 
 ---
