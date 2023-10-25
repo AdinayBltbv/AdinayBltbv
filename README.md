@@ -20,7 +20,7 @@ Bishkek and in parallel I am mastering new technologies.
 - :triumph: I am an intern at an ADA Company.
 
 - :point_right: How to contact me:
-  [![Telegram Badge](https://img.shields.io/badge/adinai-baltabaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rohaanDe)
+  [![Telegram Badge](https://img.shields.io/badge/-adinai-baltabaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/adinai_baltabaeva)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:angelizada243@gmail.com)
 
 ---
@@ -69,12 +69,12 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/redux-devtools.png" alt="Redux Devtools">
 </div>
 
-## :fist_raised: Codewars:
+<!-- ## :fist_raised: Codewars:
 
 ![codewars](https://www.codewars.com/users/AdinayBltbv/badges/large)
 
 ## :fist_raised: Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/AdinayBltbv/AdinayBltbv)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/AdinayBltbv/AdinayBltbv) -->
 
 <!-- ## :writing_hand: GitHub statistics
