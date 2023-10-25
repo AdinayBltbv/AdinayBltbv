@@ -20,7 +20,7 @@ Bishkek and in parallel I am mastering new technologies.
 - :triumph: I am an intern at an ADA Company.
 
 - :point_right: How to contact me:
-  [![Telegram Badge](https://img.shields.io/badge/-adinai-baltabaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rohaanDe)
+  [![Telegram Badge](https://img.shields.io/badge/adinai-baltabaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rohaanDe)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:angelizada243@gmail.com)
 
 ---
@@ -75,17 +75,6 @@ Bishkek and in parallel I am mastering new technologies.
 
 ## :fist_raised: Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/AdinayBltbv/AdinayBltbv)
 
 <!-- ## :writing_hand: GitHub statistics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=RadmirSvitenko&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RadmirSvitenko&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
