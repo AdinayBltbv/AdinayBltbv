@@ -30,15 +30,15 @@ Bishkek and in parallel I am mastering new technologies.
 ### :information_desk_person: Social network:
 
  <div id="badges">
-  <a href="https://www.linkedin.com/in/%D1%80%D0%B0%D0%B4%D0%BC%D0%B8%D1%80-%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D0%BD%D0%BA%D0%BE-b17667245/">
+  <a href="https://www.linkedin.com/in/adinay-baltabaeva-96536a293/">
     <img width="50px" src="assets/images/icons8-линкедин-96.png" alt="Linkedin">
   </a>
 
-  <a href="https://vk.com/radmirsvitenko">
+  <a href="">
     <img width="50px" src="assets/images/icons8-vk-96.png" alt="VKontakte">
   </a>
 
-  <a href="https://t.me/rohaande">
+  <a href="https://t.me/adinai_baltabaeva">
     <img width="50px" src="assets/images/icons8-логотип-telegram-96.png" alt="Telegram">
   </a>
 
@@ -59,7 +59,7 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/javascript-original.svg" alt="JavaScript">
   <img width="50px" src="assets/images/typescript-original.svg" alt="TypeScript">
   <!-- <img width="50px" src="assets/images/nodejs-original.svg" alt="Node.js"> -->
-  <img width="50px" src="assets/images/express-original.svg" alt="Express">
+  <!-- <img width="50px" src="assets/images/express-original.svg" alt="Express"> -->
   <img width="50px" src="assets/images/materialui-original.svg" alt="Material UI">
   <!-- <img width="50px" src="assets/images/mongodb-original.svg" alt="MongoDB"> -->
   <img width="50px" src="assets/images/git-original.svg" alt="GIT">
