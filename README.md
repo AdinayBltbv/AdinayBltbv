@@ -20,7 +20,7 @@ Bishkek and in parallel I am mastering new technologies.
 - :triumph: I am an intern at an ADA Company.
 
 - :point_right: How to contact me:
-  [![Telegram Badge](https://img.shields.io/badge/adinai-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/adinai_baltabaeva)
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/adinai_baltabaeva)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:angelizada243@gmail.com)
 
 ---
